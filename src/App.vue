@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-<fun-component></fun-component>
+<fun-component>ß</fun-component>
   </div>
 </template>
 
